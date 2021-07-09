@@ -5,3 +5,6 @@ NCEAS reproducible research workshop (July 2021) training repo
 
 example change #2
 * test
+
+make another change in the rstudio online environment
+* test 2
